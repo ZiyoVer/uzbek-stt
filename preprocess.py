@@ -1,4 +1,4 @@
-import liborsa
+import librosa
 import soundfile as sf
 
 def preprocess_audio(input_path, output_path, target_sr=16000):
@@ -17,5 +17,4 @@ def preprocess_audio(input_path, output_path, target_sr=16000):
 
 if __name__ == "__main__":
     preprocess_audio("input.ogg", "output.wav")
-
 

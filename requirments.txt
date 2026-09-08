@@ -1,4 +1,2 @@
-openai-whisper
-jiwer
-librosa
-soundfile
+# Compatibility with the original filename.
+-r requirements.txt
