@@ -2,7 +2,7 @@
 
 **Python utilities for Uzbek speech transcription, audio preprocessing, and WER/CER evaluation.**
 
-A baseline toolkit built around pretrained Whisper models. For training experiments, see [Uzbek Whisper Fine-Tuning](https://github.com/ZiyoVer/FIne-tuning-).
+A baseline toolkit built around pretrained Whisper models. For training experiments, see [Uzbek Whisper Fine-Tuning](https://github.com/ZiyoVer/uzbek-whisper-finetuning).
 
 [Original Uzbek notes](docs/README.uz.md)
 
